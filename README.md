@@ -8,15 +8,15 @@ Voce deve fazer um programa que realize o cadastro de uma conta, dando opção p
 
 CLASSES
 
-	Account
+		Account
 
-- _nome: string
-- Number: int
-- Balance: double
+	- _nome: string
+	- Number: int
+	- Balance: double
 
-+ Deposit(): void
-+ Withdraw(): void
-+ printData(): void
+	+ Deposit(): void
+	+ Withdraw(): void
+	+ printData(): void
 
 USO DE:
 
